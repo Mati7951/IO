@@ -1,3 +1,1 @@
-# IO 
-Patryk Walczyński
-Mateusz Dziuba
+# IO Patryk Walczyński / Mateusz Dziuba
