@@ -7,7 +7,7 @@ Klasa users przechowuje dane na temat zalogowanego użytkownika.
 
 W przypadku drugiej części ("main.py")w razie problemów, należy utworzyć pliki txt.
 
-plik projekt.sql
+plik projekt.sql (do systemu logowania)
 - należy umieścić w lolalnej bazie danych 
 - np. xampp
 
